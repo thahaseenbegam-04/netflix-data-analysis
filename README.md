@@ -18,7 +18,7 @@ This project analyzes a Netflix dataset using Python, Pandas, Matplotlib, and Se
 - Visualize key insights (genres, ratings, countries, trends)
 
 ## 📂 Files Included
-- `Project 8 - Source Code.ipynb`: Jupyter Notebook with full code
+- `Project- Source Code.ipynb`: Jupyter Notebook with full code
 - `Netflix Dataset.csv`: Dataset used for analysis
 
 ## 📈 Sample Insights
